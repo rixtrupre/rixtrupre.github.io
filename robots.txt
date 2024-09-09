@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rixtrupre.github.io/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/app/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/assets/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/css/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/includes/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/item/sitemap.html.gz
+Sitemap: https://rixtrupre.github.io/src/sitemap.html.gz
